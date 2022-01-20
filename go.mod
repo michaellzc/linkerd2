@@ -37,7 +37,7 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	go.opencensus.io v0.23.0
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+	golang.org/x/net v0.0.0-20211209124913-491a49abca63
 	golang.org/x/tools v0.1.7
 	google.golang.org/grpc v1.42.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
@@ -47,7 +47,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.21.3
 	k8s.io/apimachinery v0.21.3
 	k8s.io/client-go v0.21.3
-	k8s.io/code-generator v0.22.3
+	k8s.io/code-generator v0.23.2
 	k8s.io/klog/v2 v2.30.0
 	k8s.io/kube-aggregator v0.21.3
 	rsc.io/letsencrypt v0.0.3 // indirect
